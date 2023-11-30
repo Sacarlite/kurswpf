@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\bokov\source\repos\wpfTry\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Viev\AddNewProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Autorization.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Buscet.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\EditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\ManagerOrderViev.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\OrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\ProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\CharacteristicsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\ChecBoxPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\OrdersTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\SliderPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\TypesEditPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\UOfMsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viev\Templates\UserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Viev\AddNewProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Autorization.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Buscet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\EditWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\ManagerOrderViev.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\OrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\ProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\CharacteristicsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\ChecBoxPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\OrdersTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\SliderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\TypesEditPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\UOfMsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viev\Templates\UserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
